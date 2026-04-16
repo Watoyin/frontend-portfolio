@@ -78,7 +78,9 @@ body {
   padding: 8px 12px;
   border-radius: 5px;
 }
-
+.btn{ 
+  color: #000
+}
 /* FOOTER */
 footer {
   text-align: center;
