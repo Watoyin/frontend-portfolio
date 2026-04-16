@@ -63,6 +63,7 @@ body {
 
 .card a:hover{
   color: #FFDDFF;
+  background-color: 000;
 }
 /* SKILLS */
 .skills {
