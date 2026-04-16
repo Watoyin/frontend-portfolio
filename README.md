@@ -1,34 +1,35 @@
 # Front-End Portfolio
 
-This is my **front-end portfolio project** built using **HTML and CSS**.  
+This is my personal frontend developer portfolio website built using HTML and CSS.
 
-It demonstrates my understanding of:
+🌐 Live Site:
+https://watoyin.github.io/frontend-portfolio/
 
-- HTML structure and semantic elements
-- CSS styling, including Flexbox for centering
-- Responsive design for different screen sizes
-- Clean layout and typography
+# About the Project
 
-## Project Structure
+This portfolio showcases:
 
+My skills in HTML and CSS
+Beginner frontend projects
+Responsive and user-friendly design practice
+# Technologies Used
+HTML5
+CSS
+# Features
+Simple and clean design
+Responsive layout (mobile-friendly)
+Hero section introduction
+Beginner-friendly UI structure
+# What I Learned
+Structuring a webpage with semantic HTML
+Styling layouts with CSS
+Using GitHub Pages for deployment
+Basic responsive design principles
+# Future Improvements
+Add JavaScript interactivity
+Improve animations and hover effects
+Add project section
+Improve mobile responsiveness
+# Contact
 
-## Features
-
-- Centered content using Flexbox
-- Card-style container with rounded corners and shadow
-- Clean, professional look
-- Skills section listing HTML, CSS, and front-end basics
-
-## How to View
-
-1. Download or clone the repository.
-2. Open `index.html` in your browser.
-3. The page will display a centered portfolio card.
-
-## Notes
-
-- This project uses **only HTML and CSS**.
-- No JavaScript is included.
-- Designed for beginners applying to front-end development programs.
-
-
+Feel free to connect with me or check my work!
